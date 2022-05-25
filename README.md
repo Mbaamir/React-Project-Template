@@ -1,3 +1,8 @@
+# CRA Template - React@18.1.0, Typescript, MUI, Styled Components, 
+
+This project is configured to run react 18 with Typescript, MUI with a styled components engine.
+Happy Hacking
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
