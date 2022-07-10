@@ -1,4 +1,6 @@
-# Webpack
+# NPM
+
+## Webpack
 
 Have to configure Webpack according to [this](https://mui.com/material-ui/guides/styled-engine/): 
 -Do as follows:
