@@ -12,7 +12,3 @@ It is recommended that you manage deps with yarn
 2. yarn start
 
 Happy Hacking!
-
-
-
-
